@@ -21,7 +21,7 @@ body {
     font-weight: 500;
     font-size: 28pt;
     font-family: "Sacramento", cursive;
-    color: #11169e;
+    color: #22f557;
     cursor: pointer;
 }
 .layerMask {
@@ -68,7 +68,7 @@ span {
 }
 .child {
     position: absolute;
-    background-color: #92c2fc;
+    background-color: #9fedb2;
     width: 100%;
     height: 80%;
     top: 0;
@@ -97,5 +97,5 @@ span {
     height: 37%;
 }
 .close-layerMask2:hover {
-    color: #f4f4f4;
+    color: #fabef8;
 }
