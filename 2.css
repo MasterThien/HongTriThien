@@ -15,7 +15,7 @@
 }
 
 .content {
-	background-color: #f0f054 ;
+	background-color: #ed8eda ;
 }
 
 body {
@@ -35,7 +35,7 @@ span {
 
 .mask {
 	position: absolute;
-	background-color: #eaedab;
+	background-color: #5fff5c;
 	width: 100%;
 	height:100%;
 	top: 0;
