@@ -2,7 +2,7 @@
 /* Tất cả màu bên dưới bạn đều có thể thay đổi được */
 .thuTitle {
 	padding: 20px;
-	background-color: #eaedab;
+	background-color: #5fff5c;
 	color: white;
 	font-family: 'Dancing Script', cursive;
 	font-size: 26pt;
@@ -35,7 +35,7 @@ span {
 
 .mask {
 	position: absolute;
-	background-color: #5fff5c;
+	background-color: #ffc7fe;
 	width: 100%;
 	height:100%;
 	top: 0;
